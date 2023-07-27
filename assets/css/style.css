@@ -1,0 +1,562 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Medical {
+  color: black;
+}
+
+.link {
+  color: darkgrey;
+  text-decoration: none;
+}
+
+.Join {
+  text-decoration: none;
+  border-radius: 10%;
+  border: 1px solid;
+  padding: 10px 15px 10px 10px;
+  color: aliceblue;
+  background-color: blueviolet;
+}
+
+.log {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.Better {
+  color: blueviolet;
+}
+
+.Meet {
+  font-size: 30px;
+}
+
+.Dental {
+  color: darkgray;
+  margin-bottom: 30px;
+}
+.Quete {
+  color: aliceblue;
+  background-color: blueviolet;
+  text-decoration: none;
+  border: 1px solid;
+  border-radius: 10%;
+  padding: 10px 15px 10px 10px;
+}
+
+.Learn {
+  color: blueviolet;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid rgb(197 73 219);
+  border-radius: 10%;
+  padding: 10px 15px 10px 10px;
+}
+
+.secondpage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.girl {
+  width: 500px;
+}
+
+.new1 {
+  display: flex;
+  width: 1050px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Cancer {
+  color: blueviolet;
+}
+
+.Activy {
+  font-size: 30px;
+}
+
+.Problems {
+  color: darkgrey;
+}
+.card1 {
+  width: 175px;
+  padding: 20px;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+}
+
+.fivepage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.thridpage {
+  display: flex;
+  justify-content: center;
+}
+
+.sixpage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.sixpage2 {
+  display: flex;
+  flex-direction: column;
+}
+.sevenpage {
+  margin-top: 70px;
+}
+
+.photo2 {
+  width: 139px;
+  margin-bottom: 20px;
+}
+
+.Best {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.try {
+  color: darkgray;
+}
+
+.More {
+  color: blueviolet;
+}
+.fa-arrow-right-long {
+  gap: 10px;
+}
+
+.Get {
+  color: blueviolet;
+}
+
+.doc1 {
+  position: relative;
+}
+
+.fa-download {
+  margin-top: 30px;
+  position: absolute;
+  left: 16px;
+  top: -17px;
+  border: 1px solid;
+}
+
+.fa-heart {
+  border: 1px solid;
+  border-radius: 20%;
+  padding: 10px 15px;
+  color: white;
+}
+
+.fa-basket-shopping {
+  border: 1px solid;
+  border-radius: 20%;
+  padding: 10px 15px;
+  color: white;
+}
+
+.fa-eye {
+  border: 1px solid;
+  border-radius: 5%;
+  padding: 10px 10px;
+  color: rgb(179, 14, 14);
+}
+
+.star {
+  width: 60px;
+  height: 20px;
+}
+
+.englishrow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 83px;
+}
+.focus {
+  color: dimgray;
+}
+
+.sales {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  color: gray;
+}
+
+.dolars {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.sixtinfour {
+  color: coral;
+}
+.watch {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.water {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.time {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.right {
+  color: blueviolet;
+  border-radius: 28%;
+  padding: 10px 10px 10px;
+  border: 1px solid;
+  width: 100px;
+}
+.doctors-foter {
+  padding: 25px;
+}
+
+.doctors-card {
+  position: relative;
+}
+
+.eightpage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 83px;
+}
+
+.Test {
+  color: blueviolet;
+}
+
+.Department {
+  color: black;
+  font-size: 30px;
+}
+
+.Slate {
+  color: darkgrey;
+}
+
+.Miles {
+  color: black;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.Reginaone {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.regin1 {
+  width: 100px;
+}
+
+.str {
+  width: 100px;
+}
+
+.Reginatwo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Reginacards {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 93px;
+}
+.reg2 {
+  width: 100px;
+}
+.Team {
+  color: blueviolet;
+}
+
+.OurTeam {
+  color: black;
+  font-size: 35px;
+}
+
+.thre-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+}
+
+.icons {
+  position: absolute;
+  top: 249px;
+  right: 67px;
+}
+
+.Julian-card {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+  border-radius: 10%;
+  width: 200px;
+  height: 290px;
+  text-align: center;
+}
+
+.juli1 {
+  width: 200px;
+}
+.fa-instagram {
+  color: rgb(199, 79, 79);
+}
+.fa-facebook {
+  color: rgb(35, 6, 163);
+}
+.fa-twitter {
+  color: rgb(63, 61, 160);
+}
+
+.Julian-allcard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 45px;
+}
+
+.News {
+  color: blueviolet;
+}
+
+.join {
+  color: black;
+  font-size: 35px;
+}
+
+.Subscribe {
+  color: aliceblue;
+  background-color: blueviolet;
+  text-decoration: none;
+  border-radius: 5%;
+  padding: 21px 16px 12px 44px;
+}
+
+.email {
+  width: 400px;
+  height: 42px;
+}
+
+.emailcard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 37px;
+}
+
+.elevnpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Prob {
+  color: darkgrey;
+  text-align: center;
+}
+
+.darktag {
+  color: darkgray;
+}
+.cal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+.direction {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.mesage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.fa-phone {
+  color: blueviolet;
+}
+
+.fa-location-dot {
+  color: blueviolet;
+}
+
+.fa-envelope {
+  color: blueviolet;
+}
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  margin-top: 80px;
+}
+
+.Made {
+  color: grey;
+}
+
+.finis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+  padding: 25px;
+}
+
+.finiscard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+
+.ninepage {
+  margin-top: 80px;
+}
+
+.jameson {
+  margin-top: 10px;
+}
+
+@media (max-width: 700px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .secondpage {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .page1 {
+    margin-top: 41px;
+    text-align: center;
+  }
+
+  .new1 {
+    width: 420px;
+  }
+
+  .fourpage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .fivepage {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    text-align: center;
+  }
+
+  .sixpage {
+    gap: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sevenpage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .eightpage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 9px;
+  }
+
+  .teenpage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .Julian-allcard {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .elevnpage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .emailcard {
+    font-size: 10px;
+  }
+
+  .Footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .finis {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+}
